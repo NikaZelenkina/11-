@@ -1,0 +1,14 @@
+body {
+ color: Maroon;
+ background: #FFEBCD;
+}
+
+.picture {float:right; margin: 10px;}
+.picture p {
+  margin: 0;
+  text-align: center;
+  font-family: sana-serif;
+  font-size: 80%;
+  font-weight: bold;
+}
+
